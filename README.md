@@ -107,11 +107,10 @@ cd multirepos-to-monorepo
 ## 🔍 SEO-friendly GitHub “About”
 > Merge multiple Git repositories into a monorepo with history, tags, and LFS using git-filter-repo. Automates imports, tag prefixing, empty-repo handling, and GitHub pushes.
 
-**Suggested Topics:**  
+** Topics:**  
 `monorepo` `git` `migration` `import` `merge` `git-filter-repo` `lfs` `tags` `history` `cli`
 
 ---
 
 ## 📄 License
-MIT — see [LICENSE](LICENSE) file.
-
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
